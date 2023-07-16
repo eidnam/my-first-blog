@@ -1,2 +1,2 @@
 # my-first-blog
-herkansig voor de django site
+herkansing voor de django site
